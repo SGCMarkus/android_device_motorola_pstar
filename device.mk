@@ -32,6 +32,9 @@ PRODUCT_SHIPPING_API_LEVEL := 30
 $(call inherit-product, device/motorola/sm8250-common/sm8250.mk)
 
 # Overlay
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-lineage
+
 PRODUCT_PACKAGES += \
     FrameworksResPstar \
     SystemUIResPstar
