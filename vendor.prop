@@ -9,4 +9,4 @@ vendor.display.enable_allow_idle_fallback=1
 ro.mot.build.customerid=retail
 
 # NFC
-ro.venndor.hw.nfc=st
+ro.vendor.hw.nfc=st
