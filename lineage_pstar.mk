@@ -34,6 +34,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=pstar_retail \
-    PRIVATE_BUILD_DESC="pstar_retail-user 11 RRA31.Q3-19-86 dbe8d release-keys"
+    PRIVATE_BUILD_DESC="pstar_retail-user 11 S1RA32.41-20-16 ad550 release-keys"
 
-BUILD_FINGERPRINT := motorola/pstar_retail/pstar:11/RRA31.Q3-19-86/dbe8d:user/release-keys
+BUILD_FINGERPRINT := motorola/pstar_retail/pstar:11/S1RA32.41-20-16/ad550:user/release-keys

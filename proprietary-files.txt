@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from RRA31.Q3-19-86
+# All unpinned blobs below are extracted from S1RA32.41-20-16
 
 # ACDB Data
 vendor/etc/acdbdata/Bluetooth_cal.acdb
@@ -355,6 +355,7 @@ vendor/etc/st21nfc_conf_ss.txt
 
 # NFC firmware
 vendor/firmware/st21nfc_fw.bin
+vendor/firmware/st21nfc_fw7.bin
 
 # OEM
 vendor/etc/vhw.xml
@@ -373,6 +374,7 @@ vendor/etc/sensors/config/mot_devorient.json
 vendor/etc/sensors/config/mot_ftm.json
 vendor/etc/sensors/config/mot_ltv.json
 vendor/etc/sensors/config/mot_offbody.json
+vendor/etc/sensors/config/mot_tap.json
 vendor/etc/sensors/config/power_0.json
 vendor/etc/sensors/config/sns_amd.json
 vendor/etc/sensors/config/sns_amd_sw_disabled.json
@@ -409,6 +411,7 @@ vendor/etc/sensors/proto/mot_offbody.proto
 vendor/etc/sensors/proto/mot_probe.proto
 vendor/etc/sensors/proto/mot_proxcal.proto
 vendor/etc/sensors/proto/mot_stowed.proto
+vendor/etc/sensors/proto/mot_tap.proto
 vendor/etc/sensors/proto/mot_vsync.proto
 vendor/etc/sensors/proto/nanopb.proto
 vendor/etc/sensors/proto/sns_accel.proto
